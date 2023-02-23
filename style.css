@@ -1,0 +1,78 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: rgb(68, 191, 253);
+}
+
+h1 {
+  font-family: 'Playfair Display SC', serif;
+  color: white;
+  font-size: 2.8em;
+  letter-spacing: 2px;
+}
+
+#getItDoneText {
+  font-family: 'Playfair Display SC', serif;
+  color: white;
+  font-size: 1.5em;
+}
+
+.done {
+  text-decoration: line-through;
+}
+
+input {
+  font-size: 1em;
+  padding-left: 10px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-radius: 30px;
+  margin-left: 60px;
+}
+
+button {
+  float: right;
+  margin-left: 40px;
+  margin-right: -7px;
+  background-color: white;
+  border: solid rgb(68, 191, 253) 1px;
+  border-radius: 30px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  margin-top: -1px;
+}
+
+#enter {
+  float: none;
+  border: solid black 1px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  font-size: 1em;
+  margin-left: 10px;
+}
+
+#centerList {
+  text-align: center;
+}
+
+ul {
+  font-size: 1.1em;
+  display: inline-block;
+  text-align: left;
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+li {
+  background-color: white;
+  margin-top: 4px;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  border-radius: 30px;
+}
